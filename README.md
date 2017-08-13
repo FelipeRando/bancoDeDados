@@ -14,5 +14,5 @@ Qualquer dúvida ou sugestão é bem vinda!
 Unidos vamos mais longe!
 
 Links para outros repos:
-SO:
-POTA:
+SO: https://github.com/FelipeRando/SO
+POTA: https://github.com/FelipeRando/pota
