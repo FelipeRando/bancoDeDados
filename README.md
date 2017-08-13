@@ -1,7 +1,7 @@
-# bancoDeDados
+# Banco de Dados
 Anotações Banco de Dados
 
-Anotações Banco de dados
+
 
 Repositório criado para abrigar o conteúdo sobre Banco de dados
 
